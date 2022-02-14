@@ -1,10 +1,10 @@
 
-import java.util.HashSet;
+// import java.util.HashSet;
 import java.util.TreeSet;
 
 public class HashSetDemo {
     public static void main(String args[]){
-        HashSet<Integer> hs = new HashSet<>();
+        // HashSet<Integer> hs = new HashSet<>();
         TreeSet<Integer> ts = new TreeSet<>();
 
         ts.add(10);
